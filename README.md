@@ -1,1 +1,1 @@
-# Informationsecurity (IS) Lab @ zhaw
+# Informationsecurity (IS) exercise
