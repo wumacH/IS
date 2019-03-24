@@ -19,15 +19,15 @@ public class Main {
         }
         string = string.trim();
         //Exercise5
-        /*
 
-            Ex5(string);
 
+            //Ex5(string);
+            ObjectInputStream stream = new ObjectInputStream(new FileInputStream(new File("encrypted.txt")));
             Ex5a(stream);
-*/
-            Ex6(string);
-            ObjectInputStream stream = new ObjectInputStream(new FileInputStream(new File("signated.txt")));
-            Ex6a(stream);
+
+            //Ex6(string);
+            //ObjectInputStream stream = new ObjectInputStream(new FileInputStream(new File("signated.txt")));
+            //Ex6a(stream);
 
     }
 
